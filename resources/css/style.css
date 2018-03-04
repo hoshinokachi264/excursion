@@ -3,11 +3,11 @@ body {
   font-family: Verdana;
   text-align: center;
 }
-h1{
+h1 {
   font-weight: normal;
   font-size: 50px;
 }
-h2{
+h2 {
   font-weight: 300;
   font-size: 42px;
 }
@@ -19,7 +19,7 @@ h2 {
   color: aquamarine;
   font-size: 16px;
 }
-.tagline{
+.tagline {
   font-size: 21px;
   color: gray;
 }
